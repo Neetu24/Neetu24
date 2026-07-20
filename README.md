@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:B5A8FF&height=220&section=header&text=Hi,%20I'm%20Nitya!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20System%20Engineer%20%40%20TCS%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:B5A8FF&height=220&section=header&text=Hi,%20I'm%20Nitya Santoshini!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20Tech%20Enthusiast%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF9ECF?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,11 +15,9 @@
 
 ## 🌸 About Me
 
-- 🎯 Preparing to step into a **System Engineer** role at **TCS**
 - 🐍 Strong foundation in **Python, data analysis & machine learning** — now growing into **full-stack dev, automation & cloud**
-- 🏦 Curious about applying tech to the **BFSI (Banking, Financial Services & Insurance)** space
 - 🌱 Currently leveling up in Java Full-Stack, SQL, and AWS/Azure basics
-- 💌 Always happy to connect with fellow devs, TCS ILP folks & fellow data nerds
+- 💌 Always happy to connect with fellow devs & fellow data nerds
 
 <br>
 
@@ -94,7 +92,7 @@
   <img src="https://img.shields.io/badge/GitHub-B5A8FF?style=for-the-badge&logo=github&logoColor=333333" />
 </a>
 
-<i>Open to System Engineer / Software Engineer roles — especially in BFSI-focused tech teams 🌸</i>
+<i>Open to Software Engineer roles & exciting new opportunities 🌸</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5A8FF,100:FFB6D9&height=100&section=footer" width="100%"/>
 
