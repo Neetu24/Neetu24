@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:B5A8FF&height=220&section=header&text=Hi,%20I'm%20Nitya Santoshini!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20Tech%20Enthusiast%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:B5A8FF&height=220&section=header&text=Hi,%20I'm%20Nitya!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20Tech%20Enthusiast%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF9ECF?style=for-the-badge&logo=linkedin&logoColor=white" />
