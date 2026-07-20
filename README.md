@@ -1,90 +1,101 @@
-<h1 align="center">Hi, I'm Nitya 👋</h1>
-<h3 align="center">B Nitya Santoshini Reddy</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Neetu24">
-    <img src="https://img.shields.io/badge/GitHub-Neetu24-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:B5A8FF&height=220&section=header&text=Hi,%20I'm%20Nitya!%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20System%20Engineer%20%40%20TCS%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF9ECF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Neetu24">
+  <img src="https://img.shields.io/badge/GitHub-Neetu24-B5A8FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🚀 About Me
+</div>
 
-- 🎓 Preparing to step into a **System Engineer** role at **TCS**
-- 🔍 Strong foundation in **Python, data analysis, and machine learning** — now expanding into **full-stack development, automation, and cloud**
-- 🏦 Particularly interested in applying tech to the **BFSI (Banking, Financial Services & Insurance)** domain
-- 🌱 Currently sharpening skills in Java Full-Stack, SQL, and AWS/Azure fundamentals
-- 💬 Always open to connecting with fellow devs, TCS ILP folks, and data enthusiasts
+<br>
 
----
+## 🌸 About Me
 
-### 🛠️ Tech Stack
+- 🎯 Preparing to step into a **System Engineer** role at **TCS**
+- 🐍 Strong foundation in **Python, data analysis & machine learning** — now growing into **full-stack dev, automation & cloud**
+- 🏦 Curious about applying tech to the **BFSI (Banking, Financial Services & Insurance)** space
+- 🌱 Currently leveling up in Java Full-Stack, SQL, and AWS/Azure basics
+- 💌 Always happy to connect with fellow devs, TCS ILP folks & fellow data nerds
 
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<br>
+
+## 💖 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-FFD966?style=for-the-badge&logo=python&logoColor=333333" />
+<img src="https://img.shields.io/badge/Java-FFB6D9?style=for-the-badge&logo=openjdk&logoColor=333333" />
+<img src="https://img.shields.io/badge/SQL-A8D8FF?style=for-the-badge&logo=postgresql&logoColor=333333" />
+<img src="https://img.shields.io/badge/HTML5-FFC6A8?style=for-the-badge&logo=html5&logoColor=333333" />
+<img src="https://img.shields.io/badge/CSS3-B5EAD7?style=for-the-badge&logo=css3&logoColor=333333" />
 
 **Data & ML**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-</p>
 
-**Cloud, Tools & Testing**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-C7B8FF?style=for-the-badge&logo=pandas&logoColor=333333" />
+<img src="https://img.shields.io/badge/NumPy-A8D8FF?style=for-the-badge&logo=numpy&logoColor=333333" />
+<img src="https://img.shields.io/badge/scikit--learn-FFD6E8?style=for-the-badge&logo=scikitlearn&logoColor=333333" />
+<img src="https://img.shields.io/badge/Jupyter-FFE5A8?style=for-the-badge&logo=jupyter&logoColor=333333" />
 
----
+**Cloud & Tools**
 
-### 📌 Featured Projects
+<img src="https://img.shields.io/badge/AWS-FFC6A8?style=for-the-badge&logo=amazonaws&logoColor=333333" />
+<img src="https://img.shields.io/badge/Azure-A8D8FF?style=for-the-badge&logo=microsoftazure&logoColor=333333" />
+<img src="https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=333333" />
+<img src="https://img.shields.io/badge/Postman-FFE5A8?style=for-the-badge&logo=postman&logoColor=333333" />
 
-| Project | What it does | Stack |
+</div>
+
+<br>
+
+## 🎀 Featured Projects
+
+<div align="center">
+
+| | Project | What it does |
 |---|---|---|
-| 📊 [Business Sales Dashboard](https://github.com/Neetu24/-FUTURE_DS_01) | Analyzes e-commerce sales data to surface trends and business insights | Python, Pandas, Visualization |
-| 📈 [FUTURE_DS_02](https://github.com/Neetu24/FUTURE_DS_02) | Data science project — *add a one-line description here* | Python |
-| 📓 [FUTURE_DS_03](https://github.com/Neetu24/FUTURE_DS_03) | Data science project — *add a one-line description here* | Jupyter Notebook |
-| 💰 [Bitcoin Price Prediction](https://github.com/Neetu24/Bitcoin-Price-Prediction-) | Predicts BTC price movement using historical data and ML models | Python, scikit-learn |
-| 📰 [Fake News Detection Model](https://github.com/Neetu24/Fake-News-Detection-Model) | Classifies news articles as real or fake using NLP techniques | Python, NLP, ML |
-| ❤️ [Heart Disease Prediction](https://github.com/Neetu24/Heart-Disease-Prediction) | Predicts heart disease risk from patient health data | Python, scikit-learn |
+| 📊 | [**Business Sales Dashboard**](https://github.com/Neetu24/-FUTURE_DS_01) | Analyzes e-commerce sales data to surface trends & business insights |
+| 📈 | [**FUTURE_DS_02**](https://github.com/Neetu24/FUTURE_DS_02) | *add a one-line description here* |
+| 📓 | [**FUTURE_DS_03**](https://github.com/Neetu24/FUTURE_DS_03) | *add a one-line description here* |
+| 💰 | [**Bitcoin Price Prediction**](https://github.com/Neetu24/Bitcoin-Price-Prediction-) | Predicts BTC price movement using historical data & ML models |
+| 📰 | [**Fake News Detection Model**](https://github.com/Neetu24/Fake-News-Detection-Model) | Classifies news articles as real or fake using NLP |
+| ❤️ | [**Heart Disease Prediction**](https://github.com/Neetu24/Heart-Disease-Prediction) | Predicts heart disease risk from patient health data |
 
-> 💡 *Tip: fill in the two blanks above with a short description of what each project does — recruiters skim tables, and a clear one-liner does more work than the repo name alone.*
+</div>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 🌷 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neetu24&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetu24&layout=compact&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetu24&hide_border=true" height="165" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Neetu24&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=FF6FB5&icon_color=B5A8FF&text_color=6B5B7B" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetu24&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=FF6FB5&text_color=6B5B7B" height="165" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetu24&hide_border=true&background=FFF5FA&ring=FF6FB5&fire=FFB6D9&currStreakLabel=FF6FB5&sideLabels=6B5B7B&currStreakNum=6B5B7B&sideNums=6B5B7B&dates=B5A8FF" height="165" />
 
-### 📫 Let's Connect
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">LinkedIn</a> •
-  <a href="https://github.com/Neetu24">GitHub</a>
-</p>
+<br>
 
-<p align="center"><em>Open to System Engineer / Software Engineer roles — especially in BFSI-focused tech teams.</em></p>
+<div align="center">
+
+## 💌 Let's Connect
+
+<a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=333333" />
+</a>
+<a href="https://github.com/Neetu24">
+  <img src="https://img.shields.io/badge/GitHub-B5A8FF?style=for-the-badge&logo=github&logoColor=333333" />
+</a>
+
+<i>Open to System Engineer / Software Engineer roles — especially in BFSI-focused tech teams 🌸</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5A8FF,100:FFB6D9&height=100&section=footer" width="100%"/>
+
+</div>
