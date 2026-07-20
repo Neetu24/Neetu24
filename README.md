@@ -77,7 +77,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Neetu24&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFF5FA&amp;title_color=FF6FB5&amp;icon_color=B5A8FF&amp;text_color=6B5B7B" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetu24&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFF5FA&amp;title_color=FF6FB5&amp;text_color=6B5B7B" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetu24&amp;hide_border=true&amp;background=FFF5FA&amp;ring=FF6FB5&amp;fire=FFB6D9&amp;currStreakLabel=FF6FB5&amp;sideLabels=6B5B7B&amp;currStreakNum=6B5B7B&amp;sideNums=6B5B7B&amp;dates=B5A8FF" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Neetu24&amp;hide_border=true&amp;background=FFF5FA&amp;ring=FF6FB5&amp;fire=FFB6D9&amp;currStreakLabel=FF6FB5&amp;sideLabels=6B5B7B&amp;currStreakNum=6B5B7B&amp;sideNums=6B5B7B&amp;dates=B5A8FF" height="165" />
 
 </div>
 
