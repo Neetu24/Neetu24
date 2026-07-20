@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=text&amp;color=0:FFD6E8,100:C7B8FF&amp;height=110&amp;text=B%20Nitya%20Santoshini%20Reddy&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=55&amp;animation=fadeIn&amp;desc=%F0%9F%8C%B8" width="70%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFB6D9,100:B5A8FF&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Nitya!%20%E2%9C%A8&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Data%20and%20Tech%20Enthusiast%20%F0%9F%8C%B8&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFB6D9,100:B5A8FF&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Nitya!%20%E2%9C%A8&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nitya-santoshini-02186230a/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF9ECF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
